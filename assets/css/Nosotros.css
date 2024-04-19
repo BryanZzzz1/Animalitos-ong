@@ -1,0 +1,26 @@
+h1.nosotros-titulo{
+    background-color: rgb(255, 115, 0);
+    font-family: Impact;
+    width: 80%;
+    padding: 15px;
+    border-radius:10px;
+    text-align: center;
+    margin: 0%auto;    
+}
+p.texto-nosotros{
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 115, 0);
+    margin: 0%auto;
+    width: 60%;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.contenedor-imagen {
+    text-align: center;
+}
+
+.contenedor-imagen img {
+    max-width: 100%;
+    height: auto;
+}

@@ -1,0 +1,17 @@
+h5{
+    color: rgb(255, 115, 0);
+    font-family: Impact;
+    font-size: 50px;
+}
+
+.contenedor-imagen {
+    text-align: center;
+}
+
+.contenedor-imagen img {
+    max-width: 100%;
+    height: auto;
+}
+.p{
+    color: black;
+}
